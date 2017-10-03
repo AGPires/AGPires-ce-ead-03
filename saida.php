@@ -101,7 +101,7 @@ elseif ( $notastotal < 60){
                             25
                         </td>
                         <td>
-                            <?php echo $va1 ?></td>
+                            <?php echo $va2 ?></td>
                         <td>
                             <?php echo calc ($va2,25) ?></td>
                     </tr>
@@ -113,7 +113,7 @@ elseif ( $notastotal < 60){
                             35
                         </td>
                         <td>
-                            <?php echo $va1 ?></td>
+                            <?php echo $va3 ?></td>
                         <td>
                             <?php echo calc ($va3,35) ?></td>
                     </tr>
