@@ -41,7 +41,7 @@ elseif ( $notastotal < 60){
         <title>
             Declaração
         </title>
-        <link rel="stylesheet" type="text/css" href="css/index.css" >
+        <link rel="stylesheet" type="text/css" href="css/stilo.css" >
     </head>
     <body>
         <center>
@@ -91,7 +91,7 @@ elseif ( $notastotal < 60){
                         <td>
                             <?php echo $va1 ?></td>
                         <td>
-                            <?php echo calc ($va1,15) ?></td>
+                            <?php echo calc ($va1,15) ?> %</td>
                     </tr>
                     <tr>
                         <td>
@@ -103,7 +103,7 @@ elseif ( $notastotal < 60){
                         <td>
                             <?php echo $va2 ?></td>
                         <td>
-                            <?php echo calc ($va2,25) ?></td>
+                            <?php echo calc ($va2,25) ?> %</td>
                     </tr>
                     <tr>
                         <td>
@@ -115,7 +115,7 @@ elseif ( $notastotal < 60){
                         <td>
                             <?php echo $va3 ?></td>
                         <td>
-                            <?php echo calc ($va3,35) ?></td>
+                            <?php echo calc ($va3,35) ?> %</td>
                     </tr>
                     <tr>
                         <td>
@@ -127,7 +127,7 @@ elseif ( $notastotal < 60){
                         <td>
                             <?php echo $trabalhos ?></td>
                         <td>
-                            <?php echo calc($trabalhos,25) ?></td>
+                            <?php echo calc($trabalhos,25) ?> %</td>
                     </tr>
                 </tbody>
             </table>
