@@ -37,6 +37,7 @@ elseif ( $notastotal < 60){
 <!DOCTYPE html>
 <html>
     <head>
+	    <meta charset="utf-8">
         <title>
             Declaração
         </title>
